@@ -11,11 +11,12 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # Author settings
 author: 外婆山庄 # add your name
 author-pic: adam-face.jpg
-about-author: 外婆山庄地处福建省南平市延平区茫荡山茂地镇茫荡街43号.
+about-author: 外婆山庄地处福建省南平市延平区茫荡山茂地镇茫荡街43号. 联系电话：13950605531
+              
 
 # Contact links
-email: # Add your Email address
-phone: # Add your Phone number
+email: 437555055@qq.com # Add your Email address
+phone: 13950605531 # Add your Phone number
 website: # Add your website, do not add http://
 linkedin: # Add your Linkedin handle
 github: kususumu # Add your Github handle
