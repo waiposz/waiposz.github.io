@@ -11,6 +11,6 @@ author: 外婆山庄 # Add name author (optional)
 
 > Snackwave chillwave seitan whatever, flannel wolf vinyl occupy activated charcoal succulents waistcoat. Four dollar toast godard austin raclette gastropub bespoke cred whatever deep v activated charcoal actually man braid kitsch vaporware chicharrones.
 
-![Yosh Ginsu]({{site.baseurl}}/assets/img/Mountain2.jpg)
+![Yosh Ginsu]({{site.baseurl}}/assets/img/Mountain2.JPG)
 
 8-bit disrupt food truck polaroid, viral you probably haven't heard of them chillwave next level letterpress williamsburg etsy tthammock intelligentsia. Tumeric lo-fi gentrify, fixie celiac la croix marfa taiyaki fingerstache actually man braid keytar. Brunch coloring book succulents church-key umami affogato. Trust fund normcore copper mug keffiyeh slow-carb cronut waistcoat snackwave, ramps truffaut flexitarian man braid. Celiac flexitarian authentic hashtag wayfarers. Next level pitchfork scenester godard. Salvia etsy edison bulb knausgaard poke jianbing actually. Mlkshk retro cardigan photo booth swag. Occupy shaman austin, meditation green juice flannel succulents twee. Hammock trust fund sartorial cliche before they sold out semiotics truffaut, cloud bread plaid artisan shoreditch brooklyn. Shoreditch air plant asymmetrical DIY. Cred lomo sartorial, aesthetic franzen keytar mixtape live-edge banh mi subway tile blog kombucha tote bag tilde. Trust fund everyday carry wolf, hexagon put a bird on it fingerstache mlkshk street art.
