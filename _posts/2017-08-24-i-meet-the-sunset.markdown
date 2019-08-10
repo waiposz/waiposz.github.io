@@ -7,22 +7,5 @@ img: Shanzhuang.JPG # Add image post (optional)
 tags: [介绍, 外婆山庄]
 author: 外婆山庄 # Add name author (optional)
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
-
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+外婆山庄：炎热的酷夏，外婆山庄清凉宜人，伴随着乡间悠悠谷风，可以说是茫荡山上一处别致的避暑山庄。在这里，我们不仅有躲过夏日酷暑的阴凉的环境，还为广大远道而来山庄避暑的朋友提供各种各样的娱乐休闲设施。棋牌，书法自然不能少，在外婆家的一楼，设有三个棋牌室和一个书法区。如果琴棋书画还不够，顶楼设有台球桌，饮茶，可在大厅，可在后院，可在小溪边。有了娱乐，运动也不能少，外婆家还提供羽毛球拍给大家健身运动。对每一个前来的朋友，我们都提供大阳台给旅客晒被子，我们换洗的每一床被子也经过太阳烘烤。餐饮的美味和卫生是外婆的追求，外婆每天都细心打扫厨房，如同打扫自己的战场一样，做到干干净净，美味开心。
+图片：外婆的厨房，外婆的KTV，外婆的躺椅，外婆的餐厅，外婆的书法，外婆的茶几，外婆的后院，外婆的阳台，外婆的楼梯，外婆的屋顶
