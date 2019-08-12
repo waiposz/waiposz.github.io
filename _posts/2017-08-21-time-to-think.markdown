@@ -3,7 +3,7 @@ layout: post
 title: 周边风景
 date: 2017-08-21 13:32:20 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-img: around.JPG # Add image post (optional)
+img: around.jpg # Add image post (optional)
 tags: [光影, 周边风景]
 author: 外婆山庄 # Add name author (optional)
 ---
