@@ -7,4 +7,4 @@ img: tearoom.jpg # Add image post (optional)
 tags: [我们, 联系方式]
 author: 外婆山庄 # Add name author (optional)
 ---
-到此对于外婆山庄就已经介绍完了，如果各位对此感兴趣，欢迎致电外婆，或发送邮件。
+到此对于外婆山庄就已经介绍完了，如果各位对此感兴趣，欢迎致电外婆:13950605531 或发送邮件至 437555055@qq.com 
