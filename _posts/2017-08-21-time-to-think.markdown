@@ -7,6 +7,30 @@ img: around.jpg # Add image post (optional)
 tags: [光影, 周边风景]
 author: 外婆山庄 # Add name author (optional)
 ---
+>从外婆家的楼梯向外望去，绿树，小屋，人家
+![Yosh Ginsu]({{site.baseurl}}/assets/img/around.jpg)
+
 周边风景：介绍完外婆山庄，各位所感兴趣的肯定是山庄周围的风光，门前的小溪锦鲤环绕，跃龙桥声声流水，三千八白坎，天湖秀丽景色。
 傍晚，散散步，吹吹乡间小风，感受宁静和闲暇之美。袅袅炊烟，嗅出山木的芬芳。
 图片：小溪，跃龙桥，小桥人家，炊烟，天湖景色等
+
+![Yosh Ginsu]({{site.baseurl}}/assets/img/around19.jpg)
+>袅袅炊烟
+
+![Yosh Ginsu]({{site.baseurl}}/assets/img/shanzhuang2.jpg)
+>小桥人家
+
+![Yosh Ginsu]({{site.baseurl}}/assets/img/around12.jpg)
+>溪水中鸭
+
+![Yosh Ginsu]({{site.baseurl}}/assets/img/around16.jpg)
+>天湖小路
+
+![Yosh Ginsu]({{site.baseurl}}/assets/img/around18.jpg)
+>天湖俯景
+
+![Yosh Ginsu]({{site.baseurl}}/assets/img/around17.jpg)
+>茂地天湖
+
+![Yosh Ginsu]({{site.baseurl}}/assets/img/shanzhuang2.jpg)
+>小桥人家
