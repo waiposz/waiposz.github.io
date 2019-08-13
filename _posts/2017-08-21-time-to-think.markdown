@@ -16,21 +16,45 @@ author: 外婆山庄 # Add name author (optional)
 
 ![Yosh Ginsu]({{site.baseurl}}/assets/img/around19.jpg)
 >袅袅炊烟
+>
 
-![Yosh Ginsu]({{site.baseurl}}/assets/img/shanzhuang2.jpg)
+![Yosh Ginsu]({{site.baseurl}}/assets/img/around6.jpg)
 >小桥人家
+>
+
+![Yosh Ginsu]({{site.baseurl}}/assets/img/around11.jpg)
+>乡间小路
+>
 
 ![Yosh Ginsu]({{site.baseurl}}/assets/img/around12.jpg)
 >溪水中鸭
+>
 
 ![Yosh Ginsu]({{site.baseurl}}/assets/img/around16.jpg)
 >天湖小路
+>
 
 ![Yosh Ginsu]({{site.baseurl}}/assets/img/around18.jpg)
 >天湖俯景
+>
 
 ![Yosh Ginsu]({{site.baseurl}}/assets/img/around17.jpg)
 >茂地天湖
+>
 
-![Yosh Ginsu]({{site.baseurl}}/assets/img/shanzhuang2.jpg)
->小桥人家
+![Yosh Ginsu]({{site.baseurl}}/assets/img/around21.jpg)
+>竹林
+>
+
+![Yosh Ginsu]({{site.baseurl}}/assets/img/around24.jpg)
+>湍流
+>
+
+![Yosh Ginsu]({{site.baseurl}}/assets/img/around26.jpg)
+>绿草蓝天
+>
+
+![Yosh Ginsu]({{site.baseurl}}/assets/img/shanzhuang3.jpg)
+>水中锦鲤
+>
+
