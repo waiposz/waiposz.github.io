@@ -32,10 +32,18 @@ author: 外婆山庄 # Add name author (optional)
 ![Yosh Ginsu]({{site.baseurl}}/assets/img/roof2.jpg)
 >大阳台
 
+![Yosh Ginsu]({{site.baseurl}}/assets/img/stairs1.jpg)
+![Yosh Ginsu]({{site.baseurl}}/assets/img/stairs2.jpg)
+>楼梯
+
 ![Yosh Ginsu]({{site.baseurl}}/assets/img/around7.jpg)
 >凉椅
 
+![Yosh Ginsu]({{site.baseurl}}/assets/img/shanzhuang5.jpg)
+>大厅
+
 ![Yosh Ginsu]({{site.baseurl}}/assets/img/writingroom.jpg)
+![Yosh Ginsu]({{site.baseurl}}/assets/img/shanzhuang6.jpg)
 >书法写作
 
 ![Yosh Ginsu]({{site.baseurl}}/assets/img/tearoom.jpg)
