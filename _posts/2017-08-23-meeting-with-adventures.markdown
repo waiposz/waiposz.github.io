@@ -13,7 +13,7 @@ author: # Add name author (optional)
 闲暇之余可在顶楼打打台球，唱唱KTV，适合夏季乘凉避暑舒适的外婆山庄可同时接待三十余人居住与就餐。
 
 ![Yosh Ginsu]({{site.baseurl}}/assets/img/bedroom3.jpg)
->客厅
+>套房客厅
 
 ![Yosh Ginsu]({{site.baseurl}}/assets/img/bedroom6.jpg)
 ![Yosh Ginsu]({{site.baseurl}}/assets/img/bedroom5.jpg)
