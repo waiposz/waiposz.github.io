@@ -13,6 +13,9 @@ author: 外婆山庄 # Add name author (optional)
 ![Yosh Ginsu]({{site.baseurl}}/assets/img/shanzhuang.jpg)
 >外婆山庄
 
+![Yosh Ginsu]({{site.baseurl}}/assets/img/waiposhanzhuang.jpg)
+>山庄大览
+
 ![Yosh Ginsu]({{site.baseurl}}/assets/img/shanzhuang1.jpg)
 ![Yosh Ginsu]({{site.baseurl}}/assets/img/shanzhuang2.jpg)
 >山庄后院
