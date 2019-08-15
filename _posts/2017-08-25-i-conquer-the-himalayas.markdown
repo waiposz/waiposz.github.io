@@ -48,6 +48,9 @@ author: 外婆山庄 # Add name author (optional)
 ![Yosh Ginsu]({{site.baseurl}}/assets/img/around26.jpg)
 >青青山色
 
+![Yosh Ginsu]({{site.baseurl}}/assets/img/sunset.jpg)
+>日出日落
+
 其中，茂地天湖，茂地瑞龙桥，红军司令部旧址，鲤鱼溪都在外婆山庄附近，步行几分钟即可。宝珠古村，杨八妹练兵场，龙井瀑布，三千八百坎，眺望楼（观景平台），电视塔距离外婆山庄十几分钟车程。
 
 
