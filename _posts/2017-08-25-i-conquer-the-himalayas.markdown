@@ -28,7 +28,7 @@ author: 外婆山庄 # Add name author (optional)
 >00003.
 >▪ 三千八百坎
 
-![Yosh Ginsu]({{site.baseurl}}/assets/img/mangdang6.jpg)
+![Yosh Ginsu]({{site.baseurl}}/assets/img/mountain6.jpg)
 >00004.
 >▪ 杨八妹练兵场
 
@@ -36,6 +36,7 @@ author: 外婆山庄 # Add name author (optional)
 >00005.
 >▪ 茂地天湖
 
+![Yosh Ginsu]({{site.baseurl}}/assets/img/baozhu.jpg)
 >00006. ▪ 宝珠古村
 
 ![Yosh Ginsu]({{site.baseurl}}/assets/img/mangdang6.jpg)
