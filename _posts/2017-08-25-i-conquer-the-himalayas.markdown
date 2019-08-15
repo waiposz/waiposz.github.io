@@ -39,7 +39,7 @@ author: 外婆山庄 # Add name author (optional)
 ![Yosh Ginsu]({{site.baseurl}}/assets/img/baozhu.jpg)
 >00006. ▪ 宝珠古村
 
-![Yosh Ginsu]({{site.baseurl}}/assets/img/mangdang6.jpg)
+![Yosh Ginsu]({{site.baseurl}}/assets/img/around5.jpg)
 >00007. ▪ 茂地瑞龙桥
 
 ![Yosh Ginsu]({{site.baseurl}}/assets/img/mountain4.jpg)
