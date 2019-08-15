@@ -26,6 +26,10 @@ author: 外婆山庄 # Add name author (optional)
 >乡间小路
 >
 
+![Yosh Ginsu]({{site.baseurl}}/assets/img/around1.jpg)
+>水上人家
+>
+
 ![Yosh Ginsu]({{site.baseurl}}/assets/img/around12.jpg)
 >溪水中鸭
 >
