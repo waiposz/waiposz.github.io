@@ -15,7 +15,7 @@ author: 外婆山庄 # Add name author (optional)
 
 ![果园]({{site.baseurl}}/assets/img/guoyuan.jpg)
 ![果园二]({{site.baseurl}}/assets/img/putao2.jpg)
->茫荡山上的果园
+>茫荡山上的果园，采摘园里有猕猴桃，葡萄，水蜜桃
 
 ![新鲜水果]({{site.baseurl}}/assets/img/cai3.jpg)
 ![新鲜水果1]({{site.baseurl}}/assets/img/putao.jpg)
@@ -51,7 +51,7 @@ author: 外婆山庄 # Add name author (optional)
 >炒木耳
 
 ![田螺]({{site.baseurl}}/assets/img/tianluo.jpg)
->运气好的话，还能碰上河鲜哦
+>运气好的话，还能遇到田里的河蚌，田螺，田鸡，蚬子
 
 ![河蚌]({{site.baseurl}}/assets/img/hebeng.jpg)
 >河蚌
