@@ -15,14 +15,14 @@ author: 外婆山庄 # Add name author (optional)
 
 ![果园]({{site.baseurl}}/assets/img/guoyuan.jpg)
 ![果园二]({{site.baseurl}}/assets/img/putao2.jpg)
->果园
+>茫荡山上的果园
 
 ![新鲜水果]({{site.baseurl}}/assets/img/cai3.jpg)
 ![新鲜水果1]({{site.baseurl}}/assets/img/putao.jpg)
 >最新鲜的水果
 
 ![山珍售卖]({{site.baseurl}}/assets/img/around21.jpg)
->山珍售卖
+>山珍，草药集市
 
 ![板栗南瓜]({{site.baseurl}}/assets/img/banli.jpg)
 >板栗南瓜
