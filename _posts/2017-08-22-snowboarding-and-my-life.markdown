@@ -17,5 +17,22 @@ author: 外婆山庄 # Add name author (optional)
 ![各色蔬菜]({{site.baseurl}}/assets/img/cai2.jpg)
 >各色蔬菜
 
+![果园]({{site.baseurl}}/assets/img/guoyuan.jpg)
+>果园
+
 ![新鲜水果]({{site.baseurl}}/assets/img/cai3.jpg)
+![新鲜水果1]({{site.baseurl}}/assets/img/putao.jpg)
 >最新鲜的水果
+
+![山珍售卖]({{site.baseurl}}/assets/img/around21.jpg)
+>山珍售卖
+
+![板栗南瓜]({{site.baseurl}}/assets/img/banli.jpg)
+>板栗南瓜
+
+![炒笋]({{site.baseurl}}/assets/img/chaosun.jpg)
+>炒笋
+
+![烧豆腐一]({{site.baseurl}}/assets/img/shaodoufu.jpg)
+![烧豆腐二]({{site.baseurl}}/assets/img/shaodoufu.jpg)
+>烧豆腐
