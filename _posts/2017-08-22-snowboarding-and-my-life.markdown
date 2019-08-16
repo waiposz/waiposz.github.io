@@ -14,8 +14,8 @@ author: 外婆山庄 # Add name author (optional)
 除了美味的菜肴外，外婆家还有大山上美味的水果，像是葡萄，百香果，李子等都是外婆亲自采摘而来，无添加无防腐剂。另部分食材是按时供应，如板栗南瓜等。
 图片：菜肴，水果，果园，饮料酒等
 
->![各色蔬菜]({{site.baseurl}}/assets/img/cai2.jpg)
-各色蔬菜
+![各色蔬菜]({{site.baseurl}}/assets/img/cai2.jpg)
+>各色蔬菜
 
->![新鲜水果]({{site.baseurl}}/assets/img/cai3.jpg)
-最新鲜的水果
+![新鲜水果]({{site.baseurl}}/assets/img/cai3.jpg)
+>最新鲜的水果
