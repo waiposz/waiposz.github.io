@@ -7,6 +7,7 @@ img: shanzhuang.jpg # Add image post (optional)
 author: 外婆山庄 # Add name author (optional)
 ---
 >外婆山庄：炎热的酷夏，外婆山庄清凉宜人，伴随着乡间悠悠谷风，于二零一八年七月开张，可以说是茫荡山上一处别致的避暑山庄。
+>![外婆logo]({{site.baseurl}}/assets/img/logo.jpg)
 >![外婆山庄]({{site.baseurl}}/assets/img/shanzhuang.jpg)
 >![山庄大览]({{site.baseurl}}/assets/img/waiposhanzhuang.jpg)
 >山庄大览
@@ -18,7 +19,7 @@ author: 外婆山庄 # Add name author (optional)
 ![山庄后院2]({{site.baseurl}}/assets/img/shanzhuang2.jpg)
 >山庄后院
 
-![Yosh Ginsu]({{site.baseurl}}/assets/img/shanzhuang4.jpg)
+![中庭]({{site.baseurl}}/assets/img/shanzhuang4.jpg)
 >中庭
 
 ![Yosh Ginsu]({{site.baseurl}}/assets/img/playroom.jpg)
