@@ -2,7 +2,7 @@
 layout: post
 title:  住宿环境
 date:   2019-08-06 13:30:20 +0300
-description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+description: roomLive # Add post description (optional)
 img: bedroom.jpg # Add image post (optional)
 tags: [避暑, 住宿环境]
 author: # Add name author (optional)
@@ -29,8 +29,11 @@ author: # Add name author (optional)
 ![Yosh Ginsu]({{site.baseurl}}/assets/img/bedroom4.jpg)
 >套房三
 
+![Yosh Ginsu]({{site.baseurl}}/assets/img/bedroom7.jpg)
+>窗户和大阳台
+
 ![Yosh Ginsu]({{site.baseurl}}/assets/img/bathroom1.jpg)
->浴室
+>浴室洗手台
 
 ![Yosh Ginsu]({{site.baseurl}}/assets/img/bathroom2.jpg)
->浴室2
+>浴室大窗
