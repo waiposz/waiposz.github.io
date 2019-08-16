@@ -4,7 +4,6 @@ title:  外婆山庄
 date:   2018-08-02 13:32:20 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 img: shanzhuang.jpg # Add image post (optional)
-tags: [介绍, 外婆山庄]
 author: 外婆山庄 # Add name author (optional)
 ---
 >外婆山庄：炎热的酷夏，外婆山庄清凉宜人，伴随着乡间悠悠谷风，于二零一八年七月开张，可以说是茫荡山上一处别致的避暑山庄。
