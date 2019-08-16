@@ -12,6 +12,9 @@ author: 外婆山庄 # Add name author (optional)
 ![茫荡山中]({{site.baseurl}}/assets/img/around18.jpg)
 >茫荡山中
 
+![日光透林]({{site.baseurl}}/assets/img/mangdang7.jpg)
+>日光透林
+
 ![山间公路]({{site.baseurl}}/assets/img/mountain3.jpg)
 >山间公路
 
