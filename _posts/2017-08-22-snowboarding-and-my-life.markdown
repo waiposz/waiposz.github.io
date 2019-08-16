@@ -14,9 +14,6 @@ author: 外婆山庄 # Add name author (optional)
 除了美味的菜肴外，外婆家还有大山上美味的水果，像是葡萄，百香果，李子等都是外婆亲自采摘而来，无添加无防腐剂。另部分食材是按时供应，如板栗南瓜等。
 图片：菜肴，水果，果园，饮料酒等
 
-![各色蔬菜]({{site.baseurl}}/assets/img/cai2.jpg)
->各色蔬菜
-
 ![果园]({{site.baseurl}}/assets/img/guoyuan.jpg)
 ![果园二]({{site.baseurl}}/assets/img/putao2.jpg)
 >果园
@@ -38,9 +35,9 @@ author: 外婆山庄 # Add name author (optional)
 ![烧豆腐二]({{site.baseurl}}/assets/img/shaodoufu1.jpg)
 >烧豆腐
 
-![荔枝肉一]({{site.baseurl}}/assets/img/lizhi.jpg)
-![荔枝肉二]({{site.baseurl}}/assets/img/lizhi2.jpg)
->最新鲜的水果
+![荔枝肉一]({{site.baseurl}}/assets/img/lizhi2.jpg)
+![荔枝肉二]({{site.baseurl}}/assets/img/lizhi.jpg)
+>荔枝肉
 
 ![木槿爆蛋]({{site.baseurl}}/assets/img/mujingbaodan.jpg)
 >木槿爆蛋
@@ -48,8 +45,11 @@ author: 外婆山庄 # Add name author (optional)
 ![木槿汤]({{site.baseurl}}/assets/img/mujingtang.jpg)
 >木槿汤
 
-![炒白果]({{site.baseurl}}/assets/img/cai3.jpg)
+![炒白果]({{site.baseurl}}/assets/img/baiguo.jpg)
 >炒白果
+
+![炒木耳]({{site.baseurl}}/assets/img/muer.jpg)
+>炒木耳
 
 ![田螺]({{site.baseurl}}/assets/img/tianluo.jpg)
 >运气好的话，还能碰上河鲜哦
