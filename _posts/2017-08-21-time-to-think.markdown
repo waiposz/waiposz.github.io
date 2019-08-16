@@ -4,7 +4,6 @@ title: 周边风景
 date:   2018-07-07 19:30:20 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 img: around.jpg # Add image post (optional)
-tags: [光影, 周边风景]
 author: 外婆山庄 # Add name author (optional)
 ---
 >从外婆家的楼梯向外望去，绿树，小屋，人家
