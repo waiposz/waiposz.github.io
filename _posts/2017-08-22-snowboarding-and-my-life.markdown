@@ -65,5 +65,8 @@ author: 外婆山庄 # Add name author (optional)
 ![板鸭]({{site.baseurl}}/assets/img/banya.jpg)
 >板鸭
 
-![早餐]({{site.baseurl}}/assets/img/zaocan.jpg)
->早餐
+![早餐一]({{site.baseurl}}/assets/img/zaocan2.jpg)
+>早餐一
+
+![早餐二]({{site.baseurl}}/assets/img/zaocan.jpg)
+>早餐二
