@@ -13,7 +13,8 @@ author: 外婆山庄 # Add name author (optional)
 傍晚，散散步，吹吹乡间小风，感受宁静和闲暇之美。袅袅炊烟，嗅出山木的芬芳。
 图片：小溪，跃龙桥，小桥人家，炊烟，天湖景色等
 
-![Yosh Ginsu]({{site.baseurl}}/assets/img/around19.jpg)
+![袅袅炊烟一]({{site.baseurl}}/assets/img/around19.jpg)
+![袅袅炊烟二]({{site.baseurl}}/assets/img/mangdang8.jpg)
 >袅袅炊烟
 >
 
