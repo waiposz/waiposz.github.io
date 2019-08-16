@@ -4,7 +4,6 @@ title:  住宿环境
 date:   2018-08-01 13:30:20 +0300
 description: roomLive # Add post description (optional)
 img: bedroom.jpg # Add image post (optional)
-tags: [避暑, 住宿环境]
 author: # Add name author (optional)
 ---
 住宿环境：
