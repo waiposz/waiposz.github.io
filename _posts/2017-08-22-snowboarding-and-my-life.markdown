@@ -18,6 +18,7 @@ author: 外婆山庄 # Add name author (optional)
 >各色蔬菜
 
 ![果园]({{site.baseurl}}/assets/img/guoyuan.jpg)
+![果园二]({{site.baseurl}}/assets/img/putao2.jpg)
 >果园
 
 ![新鲜水果]({{site.baseurl}}/assets/img/cai3.jpg)
@@ -34,5 +35,36 @@ author: 外婆山庄 # Add name author (optional)
 >炒笋
 
 ![烧豆腐一]({{site.baseurl}}/assets/img/shaodoufu.jpg)
-![烧豆腐二]({{site.baseurl}}/assets/img/shaodoufu.jpg)
+![烧豆腐二]({{site.baseurl}}/assets/img/shaodoufu1.jpg)
 >烧豆腐
+
+![荔枝肉一]({{site.baseurl}}/assets/img/lizhi.jpg)
+![荔枝肉二]({{site.baseurl}}/assets/img/lizhi2.jpg)
+>最新鲜的水果
+
+![木槿爆蛋]({{site.baseurl}}/assets/img/mujingbaodan.jpg)
+>木槿爆蛋
+
+![木槿汤]({{site.baseurl}}/assets/img/mujingtang.jpg)
+>木槿汤
+
+![炒白果]({{site.baseurl}}/assets/img/cai3.jpg)
+>炒白果
+
+![田螺]({{site.baseurl}}/assets/img/tianluo.jpg)
+>运气好的话，还能碰上河鲜哦
+
+![河蚌]({{site.baseurl}}/assets/img/hebeng.jpg)
+>河蚌
+
+![鱼头豆腐]({{site.baseurl}}/assets/img/yutou.jpg)
+>鱼头豆腐
+
+![笋]({{site.baseurl}}/assets/img/sun.jpg)
+>笋
+
+![板鸭]({{site.baseurl}}/assets/img/banya.jpg)
+>板鸭
+
+![早餐]({{site.baseurl}}/assets/img/zaocan.jpg)
+>早餐
