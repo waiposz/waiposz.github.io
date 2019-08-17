@@ -6,6 +6,7 @@ description: You’ll find this post in your `_posts` directory. Go ahead and ed
 img: dinnerroom.jpg # Add image post (optional)
 author: 外婆山庄 # Add name author (optional)
 ---
+>![外婆logo]({{site.baseurl}}/assets/img/logo.jpg)
 >吃喝饮食：来外婆山庄，品尝农家美味，外婆有许多道拿手菜想和大家一起分享。
 >![晚宴餐桌]({{site.baseurl}}/assets/img/dinnerroom.jpg)
 
