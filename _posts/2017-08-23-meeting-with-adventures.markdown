@@ -6,6 +6,7 @@ description: roomLive # Add post description (optional)
 img: bedroom.jpg # Add image post (optional)
 author: # Add name author (optional)
 ---
+>![外婆logo]({{site.baseurl}}/assets/img/logo.jpg)
 住宿环境：
 外婆山庄有两种类型的套房十套，三种类型房间共计十八间，每两间客房组成的大套房中都配有客厅可供休闲娱乐，房间拥有大窗户，防蚊纱窗，电视，衣柜，独立卫生间，大阳台，各房间支持WIFI宽带连接，白天可以在外婆家门前喂鱼、乘凉，在外婆家后院聊天，客厅饮茶。
 夜晚可以坐在房间里看看电视、看看股市行情、在阳台欣赏无边星空。
