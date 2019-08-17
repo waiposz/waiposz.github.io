@@ -21,7 +21,7 @@ author: 外婆山庄 # Add name author (optional)
 ![新鲜水果1]({{site.baseurl}}/assets/img/putao.jpg)
 >最新鲜的水果
 
-![山珍售卖]({{site.baseurl}}/assets/img/around21.jpg)
+![山珍售卖]({{site.baseurl}}/assets/img/around27.jpg)
 >山珍，草药集市
 
 ![板栗南瓜]({{site.baseurl}}/assets/img/banli.jpg)
