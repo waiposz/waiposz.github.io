@@ -7,7 +7,7 @@ img: around.jpg # Add image post (optional)
 author: 外婆山庄 # Add name author (optional)
 ---
 >从外婆家的楼梯向外望去，绿树，小屋，人家
-![Yosh Ginsu]({{site.baseurl}}/assets/img/around.jpg)
+![外婆家]({{site.baseurl}}/assets/img/around.jpg)
 
 周边风景——皆在步行几分钟内：介绍完外婆山庄，各位所感兴趣的肯定是山庄周围的风光，门前的小溪锦鲤环绕，跃龙桥声声流水，三千八白坎，天湖秀丽景色。
 傍晚，散散步，吹吹乡间小风，感受宁静和闲暇之美。袅袅炊烟，嗅出山木的芬芳。
@@ -18,47 +18,47 @@ author: 外婆山庄 # Add name author (optional)
 >袅袅炊烟
 >
 
-![Yosh Ginsu]({{site.baseurl}}/assets/img/around6.jpg)
+![小桥人家]({{site.baseurl}}/assets/img/around6.jpg)
 >小桥人家
 >
 
-![Yosh Ginsu]({{site.baseurl}}/assets/img/around11.jpg)
+![乡间小路]({{site.baseurl}}/assets/img/around11.jpg)
 >乡间小路
 >
 
-![Yosh Ginsu]({{site.baseurl}}/assets/img/around1.jpg)
+![水上人家]({{site.baseurl}}/assets/img/around1.jpg)
 >水上人家
 >
 
-![Yosh Ginsu]({{site.baseurl}}/assets/img/around12.jpg)
+![溪水中鸭]({{site.baseurl}}/assets/img/around12.jpg)
 >溪水中鸭
 >
 
-![Yosh Ginsu]({{site.baseurl}}/assets/img/around16.jpg)
+![天湖小路]({{site.baseurl}}/assets/img/around16.jpg)
 >天湖小路
 >
 
-![Yosh Ginsu]({{site.baseurl}}/assets/img/around18.jpg)
+![天湖俯景]({{site.baseurl}}/assets/img/around18.jpg)
 >天湖俯景
 >
 
-![Yosh Ginsu]({{site.baseurl}}/assets/img/around17.jpg)
+![茂地天湖]({{site.baseurl}}/assets/img/around17.jpg)
 >茂地天湖
 >
 
-![Yosh Ginsu]({{site.baseurl}}/assets/img/around21.jpg)
+![竹林]({{site.baseurl}}/assets/img/around21.jpg)
 >竹林
 >
 
-![Yosh Ginsu]({{site.baseurl}}/assets/img/around24.jpg)
+![湍流]({{site.baseurl}}/assets/img/around24.jpg)
 >湍流
 >
 
-![Yosh Ginsu]({{site.baseurl}}/assets/img/around26.jpg)
+![绿草蓝天]({{site.baseurl}}/assets/img/around26.jpg)
 >绿草蓝天
 >
 
-![Yosh Ginsu]({{site.baseurl}}/assets/img/shanzhuang3.jpg)
+![水中锦鲤]({{site.baseurl}}/assets/img/shanzhuang3.jpg)
 >水中锦鲤
 >
 
