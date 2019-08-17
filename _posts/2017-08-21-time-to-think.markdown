@@ -6,6 +6,7 @@ description: You’ll find this post in your `_posts` directory. Go ahead and ed
 img: around.jpg # Add image post (optional)
 author: 外婆山庄 # Add name author (optional)
 ---
+>![外婆logo]({{site.baseurl}}/assets/img/logo.jpg)
 >从外婆家的楼梯向外望去，绿树，小屋，人家
 ![外婆家]({{site.baseurl}}/assets/img/around.jpg)
 
