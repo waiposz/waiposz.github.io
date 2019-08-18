@@ -43,10 +43,10 @@ author: 外婆山庄 # Add name author (optional)
 >炒笋
 
 ![早餐一]({{site.baseurl}}/assets/img/zaocan2.jpg)
->早餐
+>早餐：炒豆角，凉扮豆腐、花生、榨菜等
 
 ![早餐二]({{site.baseurl}}/assets/img/zaocan.jpg)
->早餐
+>早餐：豆浆、油饼、鸡蛋、馒头等
 
 ![手冲糍粑一]({{site.baseurl}}/assets/img/ciba1.jpg)
 >制作糍粑用的糯米
@@ -60,8 +60,7 @@ author: 外婆山庄 # Add name author (optional)
 不光有外婆的拿手菜，外婆时不时还会从茫荡山上带些新鲜水果上山庄
 ![果园]({{site.baseurl}}/assets/img/guoyuan.jpg)
 ![果园二]({{site.baseurl}}/assets/img/putao2.jpg)
->茫荡山上的果园，采摘园里有猕猴桃，葡萄，水蜜桃
-
+茫荡山上的果园，采摘园里有猕猴桃，葡萄，水蜜桃
 ![新鲜水果]({{site.baseurl}}/assets/img/cai3.jpg)
 ![新鲜水果1]({{site.baseurl}}/assets/img/putao.jpg)
 >当天采摘的葡萄
