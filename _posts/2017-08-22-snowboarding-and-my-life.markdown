@@ -14,22 +14,12 @@ author: 外婆山庄 # Add name author (optional)
 除了美味的菜肴外，外婆家还有大山上美味的水果，像是葡萄，百香果，李子等都是外婆亲自采摘而来，无添加无防腐剂。另部分食材是按时供应，如板栗南瓜等。
 图片：菜肴，水果，果园，饮料酒等
 
-![果园]({{site.baseurl}}/assets/img/guoyuan.jpg)
-![果园二]({{site.baseurl}}/assets/img/putao2.jpg)
->茫荡山上的果园，采摘园里有猕猴桃，葡萄，水蜜桃
-
-![新鲜水果]({{site.baseurl}}/assets/img/cai3.jpg)
-![新鲜水果1]({{site.baseurl}}/assets/img/putao.jpg)
->最新鲜的水果
-
-![山珍售卖]({{site.baseurl}}/assets/img/around27.jpg)
->山珍，草药集市
+![板栗南瓜]({{site.baseurl}}/assets/img/chufang.jpg)
+>外婆的厨房
 
 ![板栗南瓜]({{site.baseurl}}/assets/img/banli.jpg)
+![板栗南瓜]({{site.baseurl}}/assets/img/banli2.jpg)
 >板栗南瓜
-
-![炒笋]({{site.baseurl}}/assets/img/chaosun.jpg)
->炒笋
 
 ![烧豆腐一]({{site.baseurl}}/assets/img/shaodoufu.jpg)
 ![烧豆腐二]({{site.baseurl}}/assets/img/shaodoufu1.jpg)
@@ -38,6 +28,36 @@ author: 外婆山庄 # Add name author (optional)
 ![荔枝肉一]({{site.baseurl}}/assets/img/lizhi2.jpg)
 ![荔枝肉二]({{site.baseurl}}/assets/img/lizhi.jpg)
 >荔枝肉
+
+![黄花菜排骨汤一]({{site.baseurl}}/assets/img/huanghuacai.jpg)
+![黄花菜排骨汤二]({{site.baseurl}}/assets/img/huanghuacai2.jpg)
+>黄花菜排骨汤
+
+![苦瓜炒肉]({{site.baseurl}}/assets/img/kuguachaorou.jpg)
+>苦瓜炒肉
+
+>![手冲糍粑]({{site.baseurl}}/assets/img/ciba1.jpg)
+>![手冲糍粑]({{site.baseurl}}/assets/img/ciba2.jpg)
+>![手冲糍粑]({{site.baseurl}}/assets/img/ciba3.jpg)
+>![手冲糍粑]({{site.baseurl}}/assets/img/ciba5.jpg)
+>![手冲糍粑]({{site.baseurl}}/assets/img/ciba4.jpg)
+>偶尔会碰上的手冲糍粑
+
+![果园]({{site.baseurl}}/assets/img/guoyuan.jpg)
+![果园二]({{site.baseurl}}/assets/img/putao2.jpg)
+>茫荡山上的果园，采摘园里有猕猴桃，葡萄，水蜜桃
+
+![新鲜水果]({{site.baseurl}}/assets/img/cai3.jpg)
+![新鲜水果1]({{site.baseurl}}/assets/img/putao.jpg)
+>最新鲜的水果
+
+#![山珍售卖]({{site.baseurl}}/assets/img/around27.jpg)
+#>山珍，草药集市
+
+
+#![炒笋]({{site.baseurl}}/assets/img/chaosun.jpg)
+#>炒笋
+
 
 ![木槿爆蛋]({{site.baseurl}}/assets/img/mujingbaodan.jpg)
 >木槿爆蛋
