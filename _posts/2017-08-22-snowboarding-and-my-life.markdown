@@ -29,18 +29,19 @@ author: 外婆山庄 # Add name author (optional)
 ![荔枝肉二]({{site.baseurl}}/assets/img/lizhi.jpg)
 >荔枝肉
 
-![黄花菜排骨汤一]({{site.baseurl}}/assets/img/huanghuacai.jpg)
+![黄花菜排骨汤一]({{site.baseurl}}/assets/img/huanghuacai.JPG)
 ![黄花菜排骨汤二]({{site.baseurl}}/assets/img/huanghuacai2.jpg)
 >黄花菜排骨汤
 
 ![苦瓜炒肉]({{site.baseurl}}/assets/img/kuguachaorou.jpg)
 >苦瓜炒肉
 
->![手冲糍粑一]({{site.baseurl}}/assets/img/ciba1.jpg)
+![手冲糍粑一]({{site.baseurl}}/assets/img/ciba1.jpg)
+>制作糍粑用的糯米
 >![手冲糍粑二]({{site.baseurl}}/assets/img/ciba2.jpg)
 >![手冲糍粑三]({{site.baseurl}}/assets/img/ciba3.jpg)
 >![手冲糍粑四]({{site.baseurl}}/assets/img/ciba5.jpg)
->![手冲糍粑五]({{site.baseurl}}/assets/img/ciba4.jpg)
+![手冲糍粑五]({{site.baseurl}}/assets/img/ciba4.jpg)
 >偶尔会碰上的手冲糍粑
 
 ![果园]({{site.baseurl}}/assets/img/guoyuan.jpg)
