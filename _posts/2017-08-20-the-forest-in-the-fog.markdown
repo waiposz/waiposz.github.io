@@ -7,4 +7,4 @@ img: tearoom.jpg # Add image post (optional)
 author: 外婆山庄 # Add name author (optional)
 ---
 >![外婆logo]({{site.baseurl}}/assets/img/logo.jpg)
->到此对于外婆山庄就已经介绍完了，如果各位对此感兴趣，欢迎致电外婆:13950605531 或发送邮件至 437555055@qq.com 
+>每年的七月到九月外婆山庄营客两个月，欢迎大家联系外婆来预约哦！到此对于外婆山庄就已经介绍完了，如果各位对此感兴趣，欢迎致电外婆:13950605531 或发送邮件至 437555055@qq.com 
