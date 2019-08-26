@@ -51,6 +51,10 @@ author: 外婆山庄 # Add name author (optional)
 >竹林
 >
 
+![湍流]({{site.baseurl}}/assets/img/qiao.jpg)
+>瑞龙桥
+>
+
 ![湍流]({{site.baseurl}}/assets/img/around24.jpg)
 >湍流
 >
@@ -59,6 +63,7 @@ author: 外婆山庄 # Add name author (optional)
 >绿草蓝天
 >
 
+![水中锦鲤2]({{site.baseurl}}/assets/img/jingli.jpg)
 ![水中锦鲤]({{site.baseurl}}/assets/img/shanzhuang3.jpg)
 >水中锦鲤
 >
