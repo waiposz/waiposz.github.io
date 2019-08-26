@@ -27,6 +27,9 @@ author: 外婆山庄 # Add name author (optional)
 >乡间小路
 >
 
+![晚霞天空]({{site.baseurl}}/assets/img/tiankong.jpg)
+>晚霞天空
+
 ![水上人家]({{site.baseurl}}/assets/img/around1.jpg)
 >水上人家
 >
