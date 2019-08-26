@@ -9,6 +9,7 @@ author: 外婆山庄 # Add name author (optional)
 >![外婆logo]({{site.baseurl}}/assets/img/logo.jpg)
 >外婆山庄：炎热的酷夏，外婆山庄清凉宜人，伴随着乡间悠悠谷风，于二零一八年七月开张，可以说是茫荡山上一处别致的避暑山庄。
 >![外婆山庄]({{site.baseurl}}/assets/img/shanzhuang.jpg)
+>![大铁门]({{site.baseurl}}/assets/img/men.jpg)
 >![山庄大览]({{site.baseurl}}/assets/img/waiposhanzhuang.jpg)
 >山庄大览
 
@@ -41,9 +42,14 @@ author: 外婆山庄 # Add name author (optional)
 ![Yosh Ginsu]({{site.baseurl}}/assets/img/shanzhuang5.jpg)
 >大厅
 
-![Yosh Ginsu]({{site.baseurl}}/assets/img/writingroom.jpg)
-![Yosh Ginsu]({{site.baseurl}}/assets/img/shanzhuang6.jpg)
+![书法写作1]({{site.baseurl}}/assets/img/writingroom.jpg)
+![书法写作2]({{site.baseurl}}/assets/img/writingroom2.jpg)
+![书法写作3]({{site.baseurl}}/assets/img/shanzhuang6.jpg)
 >书法写作
+
+![文艺晚会1]({{site.baseurl}}/assets/img/wenyi.jpg)
+![文艺晚会2]({{site.baseurl}}/assets/img/wenyi2.jpg)
+>文艺晚会
 
 ![Yosh Ginsu]({{site.baseurl}}/assets/img/tearoom.jpg)
 >茶室
