@@ -66,6 +66,11 @@ author: 外婆山庄 # Add name author (optional)
 >绿草蓝天
 >
 
+![钓鱼1]({{site.baseurl}}/assets/img/diaoyu2.jpg)
+![钓鱼2]({{site.baseurl}}/assets/img/diaoyu.jpg)
+>钓鱼
+>
+
 ![水中锦鲤2]({{site.baseurl}}/assets/img/jingli.jpg)
 ![水中锦鲤]({{site.baseurl}}/assets/img/shanzhuang3.jpg)
 >水中锦鲤
