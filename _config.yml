@@ -5,7 +5,7 @@ description: > # this means to ignore newlines until "baseurl:"
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 permalink: ':title/'
-baseurl: "/waipo" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Author settings
@@ -16,7 +16,7 @@ about-author: 外婆山庄地处福建省南平市延平区茫荡山茂地镇茫
 # Contact links
 email: 437555055@qq.com # Add your Email address
 phone: 13950605531 # Add your Phone number
-website: https://kususumu.github.io/waipo # Add your website, do not add http://
+website: https://waiposz.github.io # Add your website, do not add http://
 linkedin: # Add your Linkedin handle
 github: kususumu # Add your Github handle
 twitter: '@kususumu_' # Add your Twitter handle
